@@ -19,7 +19,7 @@ Senior Software Developer passionate about creating high-quality software soluti
 <a href="https://www.instagram.com/sekahraman/" target="_blank">
   <img align="left" alt="serdarkahraman's Instagram" width="30px" src="https://github.com/serdarkahraman/serdarkahraman/blob/main/blob/instagram.png" />
 </a>
-<a href="https://open.spotify.com/user/serdarkahraman" target="_blank">
+<a href="https://open.spotify.com/user/serdar" target="_blank">
   <img align="left" alt="serdarkahraman's Spotify" width="30px" src="https://github.com/serdarkahraman/serdarkahraman/blob/main/blob/spotify.png" />
 </a>
 <a href="https://leetcode.com/serdarkahraman/" target="_blank">
