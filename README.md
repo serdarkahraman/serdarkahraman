@@ -4,10 +4,10 @@ Senior Software Developer passionate about creating high-quality software soluti
 <br/>
 <br/>
 <div align = 'left'>
-<a href="https://twitter.com/serdarkahraman">
+<a href="https://twitter.com/serdarkahraman" target="_blank">
   <img align="left" alt="serdarkahraman | Twitter" width="30px" src="https://github.com/serdarkahraman/serdarkahraman/blob/main/blob/twitter.png" />
 </a>
-<a href="https://www.linkedin.com/in/serdarkahraman">
+<a href="https://www.linkedin.com/in/serdarkahraman" target="_blank">
   <img align="left" alt="serdarkahraman's Linkdin" width="30px" src="https://github.com/serdarkahraman/serdarkahraman/blob/main/blob/linkedin.png" />
 </a>
 <a href="#">
@@ -16,16 +16,16 @@ Senior Software Developer passionate about creating high-quality software soluti
 <a href="#">
   <img align="left" alt="serdarkahraman's Facebook" width="30px" src="https://github.com/serdarkahraman/serdarkahraman/blob/main/blob/facebook.png" />
 </a>
-<a href="https://www.instagram.com/sekahraman/">
+<a href="https://www.instagram.com/sekahraman/" target="_blank">
   <img align="left" alt="serdarkahraman's Instagram" width="30px" src="https://github.com/serdarkahraman/serdarkahraman/blob/main/blob/instagram.png" />
 </a>
-<a href="https://open.spotify.com/user/serdarkahraman">
+<a href="https://open.spotify.com/user/serdarkahraman" target="_blank">
   <img align="left" alt="serdarkahraman's Spotify" width="30px" src="https://github.com/serdarkahraman/serdarkahraman/blob/main/blob/spotify.png" />
 </a>
-<a href="https://leetcode.com/serdarkahraman/">
+<a href="https://leetcode.com/serdarkahraman/" target="_blank">
   <img align="left" alt="serdarkahraman's Leetcode" width="30px" src="https://github.com/serdarkahraman/serdarkahraman/blob/main/blob/programming-code-signs.png" />
 </a>
-<a href="https://github.com/serdarkahraman/serdarkahraman/blob/main/blob/Serdar.pdf">
+<a href="https://github.com/serdarkahraman/serdarkahraman/blob/main/blob/Serdar.pdf" target="_blank">
   <img align="left" alt="Download Resume" width="30px" src="https://github.com/serdarkahraman/serdarkahraman/blob/main/blob/curriculum-vitae-resume-svgrepo-com.svg" />
 </a>
  <br /> <br />
@@ -52,7 +52,7 @@ Senior Software Developer passionate about creating high-quality software soluti
 
 <h3 align="left">Support:</h3>
 <p align="left"> 
-  <a href="https://www.buymeacoffee.com/serdarkahraman"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="serdarkahraman" /></a>   <br />  
+  <a href="https://www.buymeacoffee.com/serdarkahraman" target="_blank"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="serdarkahraman" /></a>   <br />  
   <img src="https://komarev.com/ghpvc/?username=serdarkahraman&label=Profile%20views&color=0e75b6&style=flat" alt="serdarkahraman" /> 
  
   </p>
