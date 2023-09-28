@@ -5,28 +5,28 @@ Senior Software Developer passionate about creating high-quality software soluti
 <br/>
 <div align = 'left'>
 <a href="https://twitter.com/serdarkahraman">
-  <img align="left" alt="serdarkahraman | Twitter" width="30px" src="https://github.com/serdarkahraman/serdarkahraman/blob/master/assets/twitter.png" />
+  <img align="left" alt="serdarkahraman | Twitter" width="30px" src="https://github.com/serdarkahraman/serdarkahraman/blob/main/blob/twitter.png" />
 </a>
 <a href="https://www.linkedin.com/serdarkahraman">
-  <img align="left" alt="serdarkahraman's Linkdin" width="30px" src="https://github.com/serdarkahraman/serdarkahraman/blob/master/assets/linkedin.png" />
+  <img align="left" alt="serdarkahraman's Linkdin" width="30px" src="https://github.com/serdarkahraman/serdarkahraman/blob/main/blob/linkedin.png" />
 </a>
 <a href="https://serdarkahraman.com/">
-  <img align="left" alt="serdarkahraman's Portfolio" width="30px" src="https://github.com/serdarkahraman/serdarkahraman/blob/master/assets/planet.svg" />
+  <img align="left" alt="serdarkahraman's Portfolio" width="30px" src="https://github.com/serdarkahraman/serdarkahraman/blob/main/blob/planet.svg" />
 </a>
 <a href="https://www.facebook.com/serdarkahraman">
-  <img align="left" alt="serdarkahraman's Facebook" width="30px" src="https://github.com/serdarkahraman/serdarkahraman/blob/master/assets/facebook.png" />
+  <img align="left" alt="serdarkahraman's Facebook" width="30px" src="https://github.com/serdarkahraman/serdarkahraman/blob/main/blob/facebook.png" />
 </a>
 <a href="(https://www.instagram.com/sekahraman/">
-  <img align="left" alt="serdarkahraman's Instagram" width="30px" src="https://github.com/serdarkahraman/serdarkahraman/blob/master/assets/instagram.png" />
+  <img align="left" alt="serdarkahraman's Instagram" width="30px" src="https://github.com/serdarkahraman/serdarkahraman/blob/main/blob/instagram.png" />
 </a>
 <a href="https://open.spotify.com/user/serdarkahraman">
-  <img align="left" alt="serdarkahraman's Spotify" width="30px" src="https://github.com/serdarkahraman/serdarkahraman/blob/master/assets/spotify.png" />
+  <img align="left" alt="serdarkahraman's Spotify" width="30px" src="https://github.com/serdarkahraman/serdarkahraman/blob/main/blob/spotify.png" />
 </a>
 <a href="https://leetcode.com/serdarkahraman/">
-  <img align="left" alt="serdarkahraman's Leetcode" width="30px" src="https://github.com/serdarkahraman/serdarkahraman/blob/master/assets/programming-code-signs.png" />
+  <img align="left" alt="serdarkahraman's Leetcode" width="30px" src="https://github.com/serdarkahraman/serdarkahraman/blob/main/blob/programming-code-signs.png" />
 </a>
-<a href="https://github.com/serdarkahraman/serdarkahraman/blob/master/assets/Serdar.pdf">
-  <img align="left" alt="Download Resume" width="30px" src="https://github.com/anmolpant/serdarkahraman/blob/master/assets/curriculum-vitae-resume-svgrepo-com.svg" />
+<a href="https://github.com/serdarkahraman/serdarkahraman/blob/main/blob/Serdar.pdf">
+  <img align="left" alt="Download Resume" width="30px" src="https://github.com/serdarkahraman/serdarkahraman/blob/main/blob/curriculum-vitae-resume-svgrepo-com.svg" />
 </a>
  <br /> <br />
 
