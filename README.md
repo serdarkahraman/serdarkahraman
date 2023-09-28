@@ -16,7 +16,7 @@ Senior Software Developer passionate about creating high-quality software soluti
 <a href="https://www.facebook.com/serdarkahraman">
   <img align="left" alt="serdarkahraman's Facebook" width="30px" src="https://github.com/serdarkahraman/serdarkahraman/blob/main/blob/facebook.png" />
 </a>
-<a href="(https://www.instagram.com/sekahraman/">
+<a href="https://www.instagram.com/sekahraman/">
   <img align="left" alt="serdarkahraman's Instagram" width="30px" src="https://github.com/serdarkahraman/serdarkahraman/blob/main/blob/instagram.png" />
 </a>
 <a href="https://open.spotify.com/user/serdarkahraman">
