@@ -7,7 +7,7 @@ Senior Software Developer passionate about creating high-quality software soluti
 <a href="https://twitter.com/serdarkahraman">
   <img align="left" alt="serdarkahraman | Twitter" width="30px" src="https://github.com/serdarkahraman/serdarkahraman/blob/main/blob/twitter.png" />
 </a>
-<a href="https://www.linkedin.com/serdarkahraman">
+<a href="https://www.linkedin.com/in/serdarkahraman">
   <img align="left" alt="serdarkahraman's Linkdin" width="30px" src="https://github.com/serdarkahraman/serdarkahraman/blob/main/blob/linkedin.png" />
 </a>
 <a href="https://serdarkahraman.com/">
