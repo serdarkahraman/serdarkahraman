@@ -32,13 +32,13 @@ Senior Software Developer passionate about creating high-quality software soluti
 
 ## Technical Skills
 - **Languages**: C#
-- **Frameworks**: .NET Core, ASP.NET Web API
-- **Databases**: MSSQL, Elasticsearch, Redis
-- **Message Queue**: RabbitMQ
-- **Cloud Services**: AWS
-- **Frontend**: HTML, CSS, Javascript, jQuery, React.js
-- **Version Control**: Git, GitHub
-- **DevOps**: CI/CD, Docker, jenkins, Kubernetes
+- **Frameworks**: .NET Core, ASP.NET Core, ASP.NET Web API, React
+- **Databases**: MSSQL, Elasticsearch, MongoDB, Redis
+- **Message Queue**: RabbitMQ, AWS SQS
+- **Cloud Services**: AWS, Azure
+- **Frontend**: HTML, CSS, Javascript, jQuery, XML, jSON, React.js
+- **Version Control**: Git, GitHub, Bitbucket
+- **DevOps**: CI/CD, Docker, Jenkins, Kubernetes
 - **Testing**: Unit Testing, Integration Testing
 
 
